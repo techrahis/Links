@@ -1,32 +1,39 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/github",
-      "destination": "https://github.com/rajarshisamaddar"
+      "destination": "https://github.com/rajarshisamaddar",
+      "permanent": true
     },
     {
       "source": "/linkedin",
-      "destination": "https://www.linkedin.com/in/rajarshisamaddar/"
+      "destination": "https://www.linkedin.com/in/rajarshisamaddar/",
+      "permanent": true
     },
     {
       "source": "/resume",
-      "destination": "/resume/RAJARSHI_SAMADDAR_RESUME.pdf"
+      "destination": "/resume/RAJARSHI_SAMADDAR_RESUME.pdf",
+      "permanent": true
     },
     {
       "source": "/website",
-      "destination": "https://rajarshisamaddar.com/"
+      "destination": "https://rajarshisamaddar.com/",
+      "permanent": true
     },
     {
       "source": "/instagram",
-      "destination": "https://www.instagram.com/rajarshicodes/"
+      "destination": "https://www.instagram.com/rajarshicodes/",
+      "permanent": true
     },
     {
       "source": "/facebook",
-      "destination": "https://www.facebook.com/rajarshicodes/"
+      "destination": "https://www.facebook.com/rajarshicodes/",
+      "permanent": true
     },
     {
       "source": "/twitter",
-      "destination": "https://twitter.com/rajarshicodes/"
+      "destination": "https://twitter.com/rajarshicodes/",
+      "permanent": true
     }
   ]
 }
