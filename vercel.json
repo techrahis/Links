@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/github",
+      "destination": "https://github.com/rajarshisamaddar"
+    }
+  ]
+}
