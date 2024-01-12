@@ -1,0 +1,82 @@
+{
+  "links": [
+    {
+      "name": "Resume / CV",
+      "url": "https://github.com/rajarshisamaddar",
+      "icon": "CgFileDocument",
+      "iconProvider": "cg",
+      "bgColor": "#f5821d",
+      "download": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/rajarshisamaddar",
+      "icon": "FaLinkedinIn",
+      "iconProvider": "fa",
+      "bgColor": "#5410ad "
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/rajarshisamaddar",
+      "icon": "FaGithub",
+      "iconProvider": "fa",
+      "bgColor": "#000"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://linkedin.com/in/rajarshisamaddar",
+      "iconProvider": "fa",
+      "icon": "FaInstagram",
+      "bgColor": "#c7044b"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://linkedin.com/in/rajarshisamaddar",
+      "icon": "FaFacebookF",
+      "iconProvider": "fa",
+      "bgColor": "#066ed6"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://github.com/rajarshisamaddar",
+      "icon": "FaXTwitter",
+      "iconProvider": "fa6",
+      "bgColor": "#050f1a"
+    },
+    {
+      "name": "GeeksForGeeks",
+      "url": "https://github.com/rajarshisamaddar",
+      "icon": "SiGeeksforgeeks",
+      "iconProvider": "si",
+      "bgColor": "#016635"
+    },
+    {
+      "name": "Leetcode",
+      "url": "https://linkedin.com/in/rajarshisamaddar",
+      "icon": "SiLeetcode",
+      "iconProvider": "si",
+      "bgColor": "#92b302"
+    },
+    {
+      "name": "Website",
+      "url": "https://github.com/rajarshisamaddar",
+      "icon": "CgWebsite",
+      "iconProvider": "cg",
+      "bgColor": "#024eb3"
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://linkedin.com/in/rajarshisamaddar",
+      "icon": "FaWhatsapp",
+      "iconProvider": "fa",
+      "bgColor": "#25d366"
+    },
+    {
+      "name": "Email",
+      "url": "https://github.com/rajarshisamaddar",
+      "icon": "FaEnvelopeOpenText",
+      "iconProvider": "fa",
+      "bgColor": "#c7042b"
+    }
+  ]
+}
