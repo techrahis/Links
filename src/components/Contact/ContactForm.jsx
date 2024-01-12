@@ -50,7 +50,11 @@ function ContactForm() {
           value="New contact form submission!"
         ></input>
         <input type="hidden" name="_template" value="table"></input>
-        <input type="hidden" name="_next" value="rajarshisamaddar.com"></input>
+        <input
+          type="hidden"
+          name="_next"
+          value="https://r4u.vercel.app/"
+        ></input>
         <button
           type="submit"
           className="bg-violet-700 text-xl text-white font-bold py-2 px-4 rounded font-mono flex items-center justify-center opacity-90 transform transition duration-100 ease-in-out hover:scale-105 cursor-pointer"
