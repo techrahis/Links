@@ -3,6 +3,30 @@
     {
       "source": "/github",
       "destination": "https://github.com/rajarshisamaddar"
+    },
+    {
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/rajarshisamaddar/"
+    },
+    {
+      "source": "/resume",
+      "destination": "/resume/RAJARSHI_SAMADDAR_RESUME.pdf"
+    },
+    {
+      "source": "/website",
+      "destination": "https://rajarshisamaddar.com/"
+    },
+    {
+      "source": "/instagram",
+      "destination": "https://www.instagram.com/rajarshicodes/"
+    },
+    {
+      "source": "/facebook",
+      "destination": "https://www.facebook.com/rajarshicodes/"
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://twitter.com/rajarshicodes/"
     }
   ]
 }

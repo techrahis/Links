@@ -2,7 +2,7 @@
   "links": [
     {
       "name": "Resume / CV",
-      "url": "https://github.com/rajarshisamaddar",
+      "url": "https://r4u.vercel.app/resume/RAJARSHI_SAMADDAR_RESUME.pdf",
       "icon": "CgFileDocument",
       "iconProvider": "cg",
       "bgColor": "#f5821d",
@@ -24,59 +24,66 @@
     },
     {
       "name": "Instagram",
-      "url": "https://linkedin.com/in/rajarshisamaddar",
+      "url": "https://www.instagram.com/rajarshicodes/",
       "iconProvider": "fa",
       "icon": "FaInstagram",
       "bgColor": "#c7044b"
     },
     {
       "name": "Facebook",
-      "url": "https://linkedin.com/in/rajarshisamaddar",
+      "url": "https://www.facebook.com/rajarshicodes/",
       "icon": "FaFacebookF",
       "iconProvider": "fa",
       "bgColor": "#066ed6"
     },
     {
       "name": "Twitter",
-      "url": "https://github.com/rajarshisamaddar",
+      "url": "https://twitter.com/rajarshicodes/",
       "icon": "FaXTwitter",
       "iconProvider": "fa6",
       "bgColor": "#050f1a"
     },
     {
       "name": "GeeksForGeeks",
-      "url": "https://github.com/rajarshisamaddar",
+      "url": "https://auth.geeksforgeeks.org/user/rajarshisamaddar",
       "icon": "SiGeeksforgeeks",
       "iconProvider": "si",
       "bgColor": "#016635"
     },
     {
       "name": "Leetcode",
-      "url": "https://linkedin.com/in/rajarshisamaddar",
+      "url": "https://leetcode.com/rajarshisamaddar/",
       "icon": "SiLeetcode",
       "iconProvider": "si",
       "bgColor": "#92b302"
     },
     {
       "name": "Website",
-      "url": "https://github.com/rajarshisamaddar",
+      "url": "https://rajarshisamaddar.com/",
       "icon": "CgWebsite",
       "iconProvider": "cg",
       "bgColor": "#024eb3"
     },
     {
       "name": "WhatsApp",
-      "url": "https://linkedin.com/in/rajarshisamaddar",
+      "url": "https://wa.me/+916295611536",
       "icon": "FaWhatsapp",
       "iconProvider": "fa",
       "bgColor": "#25d366"
     },
     {
       "name": "Email",
-      "url": "https://github.com/rajarshisamaddar",
+      "url": "mailto:hello@rajarshisamaddar.com",
       "icon": "FaEnvelopeOpenText",
       "iconProvider": "fa",
       "bgColor": "#c7042b"
+    },
+    {
+      "name": "Phone",
+      "url": "tel:+916295611536",
+      "icon": "MdOutlinePhone",
+      "iconProvider": "md",
+      "bgColor": "#4245f5"
     }
   ]
 }
